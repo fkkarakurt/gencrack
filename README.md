@@ -108,5 +108,5 @@ This project provides a basic demonstration of genetic algorithms. While the pro
 
 ## Screenshots
 
-![C++ Screenshots](./cpp_ss.jpeg)
-![Python Screenshots](./py_ss.jpeg)
+![C++ Screenshots](./ss/cpp_ss.jpeg)
+![Python Screenshots](./ss/py_ss.jpeg)
