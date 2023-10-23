@@ -34,7 +34,7 @@ In this project, the genetic algorithm is applied to a simple problem: evolving 
 - Generation: 1000
 - Elite Population Rate: 10%
 
-```bash
+```txt
 Generation 0: 9X_'0J<k-5mG({o#D"QYO (3/21 correct)
 Generation 1: Parafzk_w?P=4v<sD_8xz (4/21 correct)
 Generation 2: J'w7uSS_or?r.3-`q_b.f (6/21 correct)
@@ -64,7 +64,7 @@ As you can see, each trial and error is passed on to the next generation, and we
 - Generation: 10000
 - Elite Population Rate: 5%
 
-```bash
+```txt
 Generation 0: cQT}b93@"WrzR+^W{.Rq< (0/21 correct)
 Generation 1: carFbu3@dW@&)+dW{.R7< (0/21 correct)
 Generation 2: Rfye6u%@dWq:(-0A#NQ7n (0/21 correct)
@@ -109,4 +109,4 @@ This project provides a basic demonstration of genetic algorithms. While the pro
 ## Screenshots
 
 ![C++ Screenshots](./cpp_ss.jpeg)
-![Python Screenshots](./py_gencrack.py)
+![Python Screenshots](./py_ss.jpeg)
